@@ -1,0 +1,3 @@
+application\Program.class
+model\services\ProductService.class
+entities\Product.class
